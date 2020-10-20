@@ -1,8 +1,6 @@
-## schema
-
 -- Drops the database if it exists currently --
-DROP DATABASE IF EXISTS culturalbash;
+DROP DATABASE IF EXISTS weddingpot;
 -- Creates the database --
-CREATE DATABASE culturalbash;
+CREATE DATABASE weddingpot;
 
-USE culturalbash;
+USE weddingpot;
